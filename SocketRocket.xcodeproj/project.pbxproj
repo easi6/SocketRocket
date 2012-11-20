@@ -711,6 +711,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos5.1;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -729,6 +730,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos5.1;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
